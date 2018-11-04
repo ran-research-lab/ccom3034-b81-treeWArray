@@ -10,3 +10,5 @@ You will implement the following:
 * `bool search(const T &e)`
 * `bool insert(const T &e)`
 * `bool remove(const T &e)`
+
+A client is provided that allows the user to invoke the various member functions of a BSTA object.
